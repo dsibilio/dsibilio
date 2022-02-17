@@ -20,7 +20,7 @@ I love to learn 📚 and most importantly share what I know with others 💕
 
 ## My Latest Articles
 
-<i align=left>This feed is automatically updated thanks to GitHub Actions 🎊</i><img src="https://github.com/dsibilio/dsibilio/actions/workflows/update-readme.yml/badge.svg" alt="GH Action Badge" align="right"></img>
+<i align=left>This feed is automatically updated thanks to GitHub Actions 🎊</i><a href="https://github.com/dsibilio/dsibilio/actions"><img src="https://github.com/dsibilio/dsibilio/actions/workflows/update-readme.yml/badge.svg" alt="GH Action Badge" align="right"></img></a>
 
 <!-- latest articles start -->
 <table>
