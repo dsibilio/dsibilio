@@ -4,7 +4,7 @@ I'm **Domenico Sibilio**, a passionate Software Craftsman 🛠 and Java enthusia
 
 I'm currently working as Senior Software Developer at [Hyland](https://www.hyland.com/) 🎉
 
-Interested in all things Tech and Open Source 🐧
+Interested in all things Tech ⚙ and Open Source 🐧
 
 I love to learn 📚 and most importantly share what I know with others 💕
 
