@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Domenico Sibilio**, a passionate Software Craftsman 🛠 and Java enthusiast ☕ interested in all things tech and open source 🐧
+I'm **Domenico Sibilio**, a passionate Software Craftsman 🛠 and Java enthusiast ☕ interested in all things tech and Open Source 🐧
 
 I love to learn 📚 and most importantly share what I know with others 💕, you can also find me on [Medium](https://domenicosibilio.medium.com/) and [StackOverflow](https://stackoverflow.com/users/11464237/domenico-sibilio) 👨‍🏫
 
