@@ -30,10 +30,11 @@ REPLACE_PATTERN = re.compile(rf'({LATEST_ARTICLES_START}).*({LATEST_ARTICLES_END
 
 
 def add_row(feed_entry):
-    title = f'<h2><a href="{feed_entry.link}">{feed_entry.title}</a></h2>'
+    title = f'<h3><a href="{feed_entry.link}">{feed_entry.title}</a></h3>'
     original_banner = feed_entry.description.split(BANNER_START)[1].split(BANNER_END)[0]
-    banner = re.sub(r'width="\d+"', r'width="200"', original_banner)
-    description = f'<i>{feed_entry.description.replace(original_banner, "")}</i>'
+    banner = re.sub(r'width="\d+"', r'width="150"', original_banner)
+    description_without_banner = feed_entry.description.replace(original_banner, '')
+    description = "<i>{}</i>".format(re.sub(r'<p class="medium-feed-link">.*</p>', '', description_without_banner))
     return LATEST_ARTICLE_TEMPLATE.format(banner=banner, title=title, description=description)
 
 
