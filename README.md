@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm **Domenico Sibilio**, a passionate Software Craftsman 🛠 and Java enthusiast ☕ interested in all things tech and Open Source 🐧
+I'm **Domenico Sibilio**, a passionate Software Craftsman 🛠 and Java enthusiast ☕ 
 
-I love to learn 📚 and most importantly share what I know with others 💕, you can also find me on [Medium](https://domenicosibilio.medium.com/) and [StackOverflow](https://stackoverflow.com/users/11464237/domenico-sibilio) 👨‍🏫
+Interested in all things tech and Open Source 🐧
+
+I love to learn 📚 and most importantly share what I know with others 💕
 
 I'm currently working as Senior Software Developer at [Hyland](https://www.hyland.com/) 🎉
 
@@ -18,7 +20,7 @@ I'm currently working as Senior Software Developer at [Hyland](https://www.hylan
 
 ## My Latest Articles
 
-_This feed is automatically updated thanks to Python 🐍 and GitHub Actions_
+<i align=left>This feed is automatically updated thanks to GitHub Actions 🎊</i><img src="https://github.com/dsibilio/dsibilio/actions/workflows/update-readme.yml/badge.svg" alt="GH Action Badge" align="right"></img>
 
 <!-- latest articles start -->
 <table>
@@ -72,4 +74,4 @@ _This feed is automatically updated thanks to Python 🐍 and GitHub Actions_
 
 ## GitHub Stats
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=dsibilio&theme=radical&show_icons=true) ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsibilio&layout=compact&theme=radical&exclude_repo=rsocket-demo)
+<img src="https://github-readme-stats.vercel.app/api?username=dsibilio&theme=radical&show_icons=true" alt="GitHub Contributions" align="left"></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsibilio&layout=compact&theme=radical&exclude_repo=rsocket-demo" alt="Programming Languages" align="right"></img>
