@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm **Domenico Sibilio**, a passionate Software Craftsman 🛠 and Java enthusiast ☕ 
-
-Interested in all things tech and Open Source 🐧
-
-I love to learn 📚 and most importantly share what I know with others 💕
+I'm **Domenico Sibilio**, a passionate Software Craftsman 🛠 and Java enthusiast ☕
 
 I'm currently working as Senior Software Developer at [Hyland](https://www.hyland.com/) 🎉
+
+Interested in all things Tech and Open Source 🐧
+
+I love to learn 📚 and most importantly share what I know with others 💕
 
 ### Connect with me 🔗
 <p align="left">
@@ -74,4 +74,13 @@ I'm currently working as Senior Software Developer at [Hyland](https://www.hylan
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dsibilio&theme=radical&show_icons=true" alt="GitHub Contributions" align="left"></img><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsibilio&layout=compact&theme=radical&exclude_repo=rsocket-demo" alt="Programming Languages" align="right"></img>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dsibilio&theme=radical&show_icons=true" alt="GitHub Contributions"></img>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsibilio&layout=compact&theme=radical&exclude_repo=rsocket-demo" alt="Programming Languages"></img>
+    </td>
+  </tr>
+</table>
