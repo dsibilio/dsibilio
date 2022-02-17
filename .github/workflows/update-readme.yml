@@ -27,4 +27,4 @@ jobs:
       run: |
         git config --global user.name "dsibilio"
         git config --global user.email "domenicosibilio@gmail.com"
-        git commit -am "Update README.md" && git push
+        git commit -am "Update README.md" && git push || exit 0
