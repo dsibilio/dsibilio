@@ -25,6 +25,7 @@ jobs:
         pip install -r requirements.txt
     - name: Update README.md
       run: |
+        python update_readme.py
         git config --global user.name "dsibilio"
         git config --global user.email "domenicosibilio@gmail.com"
         git commit -am "Update README.md" && git push || exit 0
