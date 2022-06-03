@@ -26,6 +26,15 @@ I love to learn 📚 and most importantly share what I know with others 💕
 <table>
     <tr>
         <td>
+            <a href="https://medium.com/geekculture/seamless-integration-with-remote-docker-hosts-for-development-7a369d94812f?source=rss-299466747366------2"><img src="https://cdn-images-1.medium.com/max/917/1*ao4tbseGZYAKTYlny-QOWw.png" width="150" /></a>
+        </td>
+        <td>
+            <h3><a href="https://medium.com/geekculture/seamless-integration-with-remote-docker-hosts-for-development-7a369d94812f?source=rss-299466747366------2">Seamless Integration with Remote Docker Hosts for Development</a></h3>
+            <i><div class="medium-feed-item"><p class="medium-feed-image"></p><p class="medium-feed-snippet">Let&#x2019;s go over the steps required to achieve seamless integration between your local environment and a remote Docker host!</p></div></i>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://medium.com/geekculture/streaming-docker-containers-to-your-browser-75ae9d6e27f8?source=rss-299466747366------2"><img src="https://cdn-images-1.medium.com/max/700/1*JOT3EiKl8wEDsCDskqdZ8g.png" width="150" /></a>
         </td>
         <td>
@@ -58,15 +67,6 @@ I love to learn 📚 and most importantly share what I know with others 💕
         <td>
             <h3><a href="https://medium.com/swlh/the-benefits-of-tdd-unit-testing-and-code-quality-97d30788f329?source=rss-299466747366------2">The Benefits of TDD, Unit Testing, and Code Quality</a></h3>
             <i><div class="medium-feed-item"><p class="medium-feed-image"></p><p class="medium-feed-snippet">It&#x2019;s never too late to pick up some healthy Software Craftsmanship habits, but sometimes we might need a little push to do so.</p></div></i>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://medium.com/swlh/how-to-create-a-spring-cloud-stream-binder-from-scratch-ab8b29ee931b?source=rss-299466747366------2"><img src="https://cdn-images-1.medium.com/max/2000/0*dMnwKUYeQveeLY1G" width="150" /></a>
-        </td>
-        <td>
-            <h3><a href="https://medium.com/swlh/how-to-create-a-spring-cloud-stream-binder-from-scratch-ab8b29ee931b?source=rss-299466747366------2">How to create a Spring Cloud Stream Binder from scratch</a></h3>
-            <i><div class="medium-feed-item"><p class="medium-feed-image"></p><p class="medium-feed-snippet">Learn how to build your own Spring Cloud Stream binder and the inner workings of Spring Cloud Stream!</p></div></i>
         </td>
     </tr>
 </table>
