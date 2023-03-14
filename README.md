@@ -77,7 +77,7 @@ I love to learn 📚 and most importantly share what I know with others 💕
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dsibilio&theme=react&show_icons=true" alt="GitHub Contributions"></img>
+      <img src="https://github-readme-stats.vercel.app/api?username=dsibilio&count_private=true&show_icons=true&theme=react" alt="GitHub Contributions"></img>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsibilio&layout=compact&theme=react&exclude_repo=rsocket-demo" alt="Programming Languages"></img>
