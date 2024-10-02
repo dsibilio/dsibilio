@@ -2,7 +2,7 @@
 
 I'm **Domenico Sibilio**, a passionate Software Craftsman 🛠 and Java enthusiast ☕
 
-I'm currently working as Tech Lead at [Hyland](https://www.hyland.com/) 🎉
+I'm currently working as Software Engineering Manager at [Hyland](https://www.hyland.com/) 🎉
 
 Interested in all things Tech ⚙ and Open Source 🐧
 
